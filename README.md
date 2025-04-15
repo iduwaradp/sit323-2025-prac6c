@@ -52,12 +52,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots (Add these in your submission)
-- `kubectl get pods` output
-- `kubectl get svc` output
-- Terminal showing `kubectl port-forward`
-- Browser screenshot showing app at `http://localhost:3000`
-
 ---
 
 ## 📂 Repository Structure
